@@ -51,3 +51,11 @@ shopify-clone/
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Contact
+
+Feel free to connect with me and check out my other projects.
+
+- **LinkedIn:** https://www.linkedin.com/in/mghousia
+- **GitHub:** [Your GitHub Profile URL]
+- **Email:** [Your Email Address]
